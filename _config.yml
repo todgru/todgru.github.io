@@ -1,0 +1,10 @@
+# Site settings
+title: todgru.com
+tag_text: todgru
+description: todgru!
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed

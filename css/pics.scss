@@ -1,0 +1,30 @@
+---
+# Resume scss file
+---
+
+@charset "utf-8";
+
+@import "normalize", "solo", "syntax";
+
+a {
+  color: #0000ff;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+h1,
+h2,
+h3 {
+  font-size: 25px;
+}
+body {
+  font-size: 16px;
+}
+img {
+  width: 80rem;
+}
+.container {
+  max-width: 80%;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
