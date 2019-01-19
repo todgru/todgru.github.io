@@ -1,0 +1,27 @@
+@media only screen, projections {
+    #main {
+      float: none;
+      margin-right: 0;
+      width: 100%;
+      max-width:600px;
+    }
+    body { font-size: 20px; }
+    img { 
+      max-width:600px;
+    }
+    p {
+      /*width: 99%;*/
+      max-width:600px;
+    }
+}
+@media screen and (max-device-width: 320px) {
+    h1 { font-size: 100px }
+    h2 { font-size: 70px }
+    body { font-size: 30px; }
+    p {
+      width: 99%;
+    }
+    img {
+      width: 100%;
+    }
+}

@@ -1,0 +1,8 @@
+.DS_Store
+*.sw?
+*.un~
+aws-credentials.json
+jgits3uploader.json
+_site/
+.sass-cache
+node_modules

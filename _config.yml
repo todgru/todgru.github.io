@@ -1,0 +1,11 @@
+# Site settings
+title: todgru.com
+tag_text: todgru
+description: todgru! 
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md", "aws-cred*"]
+include: [".well-known"]
+sass:
+  style: compressed

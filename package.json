@@ -1,0 +1,16 @@
+{
+  "name": "todgru.com",
+  "version": "1.0.0",
+  "description": "todgru.com",
+  "main": "s3-upload",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {},
+  "author": "todgru",
+  "license": "ISC",
+  "bugs": {},
+  "homepage": "https://github.com/todgru/todgru.com#readme"
+}

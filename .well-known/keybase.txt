@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/todgru
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://todgru.com
+  * I am todgru (https://keybase.io/todgru) on keybase.
+  * I have a public key with fingerprint 3C81 DFC3 838F E07F 9C16  7EC1 CF87 2F8A C095 52B4
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "3c81dfc3838fe07f9c167ec1cf872f8ac09552b4",
+            "host": "keybase.io",
+            "key_id": "cf872f8ac09552b4",
+            "uid": "6298087d7fa165bd1072ceceaeead500",
+            "username": "todgru"
+        },
+        "service": {
+            "hostname": "todgru.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1418943350,
+    "expire_in": 157680000,
+    "prev": "673b90768ffadf0b08d1aba07eaab504a26bec24391b1cafd86856e0c1b96b48",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - http://gpgtools.org
+
+owFtUXs0lHkYHtdQVsJ2IfSljZP45n5hQ3SIsm4dt2p88833zUyYYWYQuazLIhOF
+WpJ0c8ll1KDEyv1SaXNNSrmWtVj3dldadqaz+8ees79/3vN73ud53vc57yV1BYy8
+nMj1hOm16V/k5Dob5xgYj0zfmHMAg8cMB2jnAH/kS0E5XBbCD+JzuEKABuBhCpaJ
+wngKnoIiIBmlwlgSGYGxMEoh41AKBINUIhHHIACmAJsnkCmkNgxIgJhxeFJM+qFz
+mFL0f/ghXxokHJUCUshMMgphSUQGEwuScTACIxCCQEwiCMqIAoTPhQIRKVvIY7L4
+IUCUKSDFQjkwIttYNvg/fTOYFyjVBfF5Qh7MC5DibKEwiCaTCcODZLwwhEH/x4HO
+4HCZ0sxSQSjCF3B4XICGlTJhIUdmiSVgKVQCHk8ETQHkbBCHj9A5MgaRTKKA0icb
+g4TKgpDxDCooRVEUYqIgA6QwsRADAskIBDGIIAHCkRgIjCPgqVgGFoZQJoVEIZIQ
+EMYyqCQGgQLIMgVzeQCNJF0TYkktBRwWFxKG8BEgSu28op4iRk4eo6wkLzsbRk11
+67/HLAs22PAUY/yD00fT8xolGjEpPWkq3aBrtbFDBfVwrNbQcUzCo/qI2JjMQ7HV
+B4aruhd6zt4h3b+hJQp0qWie3halH7Y47z8pd3e52ORkuEefONur13w9lW2e8FEs
+LPPV832cN9db9e7dYpvFuPzXx22vfBqpfCtx9PP8vjE2fmMBPnUgkruiEtaH9Gy3
+qXRetX6zEJp1FL4UlaQSkipaVS5/WmyDu2/PfF87k2l00kxZr6Lw4cL5ZrLrnoz8
+2KUbiy6JTpHjVW2DOelA2gPKcPnr5uqQJKFKdmu/Xl0S/WCdanceDd92V7Mg7gAp
+xiLMrdM/23aEvn7rbEphlBlYq7pf3dNH81hMeyUaUbgLv9l9IHNdozMR3xd1U3Vq
+qule3XL1SEZT3KYZL/ZYF87/fUB4vaR5/3P16BKdTe3RAftaXeqq95VpRXfWFGo4
+/yrnPZ7xE09xgLpDLxm3NdpwmDyFuhVqZccp7NBWu+InOnY17VC6MnlF5OH7yaGt
+RUeLfqeGByRsP71LXOnFOhj5psUvZyDB3UN16d4YRnM4qXwT+CzSJcdVdN6hKn61
+N1u9xHlAwh7tqOiHa/EHBWMSn64XTxZP7Y5ACBxOHzXZ5cwrLCtOPL4y132hwziz
+JZ/IWgsbfZWa1rR3sqUh08MkT/XKtzv3TFCedLYwtPe0P42njf1m9KP4lnxD1h1t
+HesXtZUTYoXZY/0Nzwve3Jts/yoe/Gz7A6G4LF+nafqVEq38WcfrtXrHtaHfG6eN
+NvbGhPW1VoePJvtPSEoPm8WxLS3DSw4vqg0eESXPKySOx3RfntW9BTb2TkjO5IwU
+zJNj03gppLf41He3jwBeu5sew3IavRtLgoGC2U5DG4Ulb4tIe2xVblZ3TvmI4LL5
+DfOTc08WlPvt6Hc1kEut2l654m0ayEbqhaMGlVwoTdeHZVnsoKcr3mY1O/Pnbefo
+lztzricS/yLbWngE9stbrQV3So5w9dzXvb1GJItWVvxkZtdDH4MRh8oUZWv7Vh9l
+V/YfS2BFTfDOFbtP6NUOAz+6XsZgCk11aGgwZLkxFd5RvsHOf37xsoobGUbV3Kjx
+rI/Dj+w8HQ0z9MFrV3fr31fsyvXKcNJ3GvbudUV/JgbWXLc4I+bxPtwsLGKNENFq
++mcjG+MypzkNOXbsRdJHY/0580pu6CjB/bHbzOcP654NRbZTW1LDsyJvao7jX1/0
+jRs+boCxsGozLOqzW4btoO9L8xuJZZpDuvXfnSit2WJy2iIgd+J2kWt9x9JLTfMK
+QbiqdklgQXuFMycixrJFSfhh4JsHHYvr1h5+W4HNjoCmt3izzar3gkm+vajUTiw/
+Pn8ozDN1vodkljGplIxbCsucmlCrEfrxoZa/AQ==
+=7S8t
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/todgru
+
+==================================================================
