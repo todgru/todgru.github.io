@@ -10,9 +10,7 @@ layout: nobackground
 
 Embeddable Link
 
-```
-<iframe src='https://www.weatherlink.com/embeddablePage/show/785bf21a1d31494f818be81ebfdbbafd/wide' width='560' height='480' frameborder='0'></iframe>
-```
+`<iframe src='https://www.weatherlink.com/embeddablePage/show/785bf21a1d31494f818be81ebfdbbafd/wide' width='560' height='480' frameborder='0'></iframe>`
 
 ### Simple: Temp, Humidity, AQI
 
@@ -20,9 +18,7 @@ Embeddable Link
 
 Embeddable Link
 
-```
-<iframe src='https://www.weatherlink.com/embeddablePage/show/785bf21a1d31494f818be81ebfdbbafd/airLink' width='338' height='396' frameborder='0'></iframe>
-```
+`<iframe src='https://www.weatherlink.com/embeddablePage/show/785bf21a1d31494f818be81ebfdbbafd/airLink' width='338' height='396' frameborder='0'></iframe>`
 
 ### Full Screen Format: AQI, Temperature, humidity, wind/direction, rain, barometer
 
@@ -30,9 +26,7 @@ Embeddable Link
 
 #### [Example](https://www.weatherlink.com/embeddablePage/show/785bf21a1d31494f818be81ebfdbbafd/fullscreen)
 
-```
-<iframe src='https://www.weatherlink.com/embeddablePage/show/785bf21a1d31494f818be81ebfdbbafd/fullscreen' width='100%' height='100%' frameborder='0'></iframe>
-```
+`<iframe src='https://www.weatherlink.com/embeddablePage/show/785bf21a1d31494f818be81ebfdbbafd/fullscreen' width='100%' height='100%' frameborder='0'></iframe>`
 
 ### All Data Point Summary
 
