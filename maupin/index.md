@@ -6,8 +6,8 @@ layout: nobackground
 
 ## Weather
 
-* [Current Weather(full screen)](https://todgru.com/weather.html)
-* [Current Weather(verbose)](https://www.weatherlink.com/embeddablePage/show/1f37f4974bb0462f8032c613f23099b0/summary)
+* [Current Weather & AQI (full screen)](https://todgru.com/maupin/weather.html)
+* [Current Weather & AQI (verbose)](https://www.weatherlink.com/embeddablePage/show/1f37f4974bb0462f8032c613f23099b0/summary)
 * [Weather display options](./weather-options.md)
 
 ## Fire
@@ -17,6 +17,6 @@ layout: nobackground
 
 ### Maps
 * [Fire and Smoke Map](https://fire.airnow.gov/?lat=45.175740000000076&lng=-121.07972999999998&zoom=10)
-* [Fire Incidents]
+* [Fire Incidents US](https://inciweb.nwcg.gov/)
 * [National Fire Situational Awareness (NFSA) Tool](https://maps.nwcg.gov/sa/#/%3F/%3F/44.7429/-122.3369/8)
-* [FIRMS US/Canada(Central Oregon)](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:2021-06-20..2021-06-21;l:noaa20-viirs,viirs,modis_a,modis_t,active-usa,active-ca,street;@-119.5,44.6,7z)
+* [FIRMS US/Canada - Central Oregon](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:2021-06-20..2021-06-21;l:noaa20-viirs,viirs,modis_a,modis_t,active-usa,active-ca,street;@-119.5,44.6,7z)
