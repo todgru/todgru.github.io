@@ -2,32 +2,21 @@
 layout: nobackground
 ---
 
-# Weather Display Options
+# Maupin
 
-### Wide Format: AQI, Temperature, humidity, wind/direction, rain, barometer
+## Weather
 
-#### [Example](https://www.weatherlink.com/embeddablePage/show/785bf21a1d31494f818be81ebfdbbafd/wide)
+* [Current Weather(full screen)](https://todgru.com/weather.html)
+* [Current Weather(verbose)](https://www.weatherlink.com/embeddablePage/show/1f37f4974bb0462f8032c613f23099b0/summary)
+* [Weather display options](./weather-options.md)
 
-Embeddable Link
+## Fire
 
-`<iframe src='https://www.weatherlink.com/embeddablePage/show/785bf21a1d31494f818be81ebfdbbafd/wide' width='560' height='480' frameborder='0'></iframe>`
+### 2021 Incidents
+* [June 18, 2021: S-503 (Northern Warms Springs/Pine Grove)](https://inciweb.nwcg.gov/incident/7559/)
 
-### Simple: Temp, Humidity, AQI
-
-#### [Example](https://www.weatherlink.com/embeddablePage/show/785bf21a1d31494f818be81ebfdbbafd/airLink)
-
-Embeddable Link
-
-`<iframe src='https://www.weatherlink.com/embeddablePage/show/785bf21a1d31494f818be81ebfdbbafd/airLink' width='338' height='396' frameborder='0'></iframe>`
-
-### Full Screen Format: AQI, Temperature, humidity, wind/direction, rain, barometer
-
-- Good for full screen displays or pop-up windows.
-
-#### [Example](https://www.weatherlink.com/embeddablePage/show/785bf21a1d31494f818be81ebfdbbafd/fullscreen)
-
-`<iframe src='https://www.weatherlink.com/embeddablePage/show/785bf21a1d31494f818be81ebfdbbafd/fullscreen' width='100%' height='100%' frameborder='0'></iframe>`
-
-### Summary of Collected Data Points
-
-<a href='https://www.weatherlink.com/embeddablePage/show/1f37f4974bb0462f8032c613f23099b0/summary'>Weather/AQI</a>
+### Maps
+* [Fire and Smoke Map](https://fire.airnow.gov/?lat=45.175740000000076&lng=-121.07972999999998&zoom=10)
+* [Fire Incidents]
+* [National Fire Situational Awareness (NFSA) Tool](https://maps.nwcg.gov/sa/#/%3F/%3F/44.7429/-122.3369/8)
+* [FIRMS US/Canada(Central Oregon)](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:2021-06-20..2021-06-21;l:noaa20-viirs,viirs,modis_a,modis_t,active-usa,active-ca,street;@-119.5,44.6,7z)
