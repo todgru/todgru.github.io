@@ -13,6 +13,8 @@ layout: nobackground
 ## Fire
 
 ### 2021 Incidents
+* [June 30, 2021: Rattlesnake Fire (Hwy-97/Deschutes River/S.Wasco County)](https://inciweb.nwcg.gov/incident/7592/)
+* [June 29, 2021: Wrentham Market Road (Bewtween Dufur and Deschutes River)](https://inciweb.nwcg.gov/incident/7589/)
 * [June 18, 2021: S-503 (Northern Warms Springs/Pine Grove)](https://inciweb.nwcg.gov/incident/7559/)
 
 ### Maps
