@@ -1,15 +1,16 @@
-﻿Todd Gruener a.k.a. Tod Gru
-
-
+﻿Tod Gru
 Portland, Oregon, U.S.
-503-896-2427 - me@todgru.com - github.com/todgru
-B.S. Computer Science, Western Governors University
+me@todgru.com
+541-777-1438
 
 
 Senior Backend Software Engineer - Welocalize April 2017 - present
 
 
-Welocalize is an international localization and translation service provider for Fortune 500 companies. Translations projects, real-time integrations, workflow management and monitoring use Welocalize’s cloud-based client services delivery platform, Pantheon. Pantheon manages the entire day-to-day business of all client and vendor services. Data points are collected throughout the translation life cycle from inception to close to allow for revenue and delivery optimization. 
+Welocalize is an international localization and translation service provider for Fortune 500 companies. 
+
+
+Pantheon is Welocalize’s cloud-based client service delivery platform that manages translation projects, real-time integrations, and workflow management. Pantheon contains the entire day-to-day business of all client and vendor services. Data points are collected throughout the translation life cycle from intake to close to allow for revenue and delivery optimization. 
 
 
 As an individual contributor at Welocalize, I was involved in many aspects to launch and improve the Pantheon platform: initial creation and transition from the legacy business process platform, new feature development, and scaling and performance improvements. My mandate was a holistic focus to create a reliable, efficient, and manageable distributed system.
@@ -40,7 +41,7 @@ Chirpify was a VC-funded social media startup that began as social media convers
 * Managed Twitter Firehose using AWS Kinesis and Ruby Sidekiq background queue for high throughput tweet processing.
 * Integrated with Facebook and Instagram APIs to ingest transactional hashtags from users’ comments.
 * Created and managed AWS infrastructure that allowed development and staging environments for testing and managed all production deploys.
-* Managed CircleCI for continuous integration and testing
+* Managed CircleCI for continuous integration and testing.
 * Developed PHP and Ruby REST APIs for managing financial transactions between social media buyers and sellers in the first Chirpy business model.
 * Refactored backend to support pivot to new enterprise business line that tracked brand loyalty using social media customer engagement.
 
@@ -57,7 +58,17 @@ BonJones was hired by a non-profit to implement a SalesForce integration with a 
 Backend Software Engineer - Cart Compass 2010 - 2011
 
 
-Cart Compass was a crowd-sourced food cart locator covering the Portland, Oregon metro area. I created a PHP API backend with MySQL DB to support iOS and Android Cart Compass applications.
+Cart Compass was a crowd-sourced food cart locator covering Portland, Oregon, metro. 
+I created a PHP API backend with MySQL DB to support iOS and Android Cart Compass applications.
 
 
-Prior work includes more financial technology, information technology, and music entertainment.
+Prior work includes financial technology, information technology, and music entertainment.
+
+
+Education
+B.S. Computer Science, Western Governors University
+
+
+Certifications
+ITILFoundation Level
+CompTIA Project+
