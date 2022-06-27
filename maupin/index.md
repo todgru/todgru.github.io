@@ -4,6 +4,9 @@ layout: nobackground
 
 # Maupin
 
+## Air Traffic
+[Current Airplane activity over Maupin](https://todgru.com/maupin/adsb.html)
+
 ## Weather
 
 * [Current Weather & AQI (full screen)](https://todgru.com/maupin/weather.html)
