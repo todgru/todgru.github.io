@@ -15,6 +15,14 @@ layout: nobackground
 
 ## Fire
 
+### 2022 Incidents
+* [August 02, 2022 Dodge Fire/Juniper Flat](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:today;l:noaa20-viirs,viirs,modis_a,modis_t,street;@-121.1,45.2,12z) Between Pine Grove and Walters Corner, north of and around Highway 216.
+  * 4:32 pm No InciWeb report.
+  * 3:47 pm Level 1 Get Ready: City of Maupin, North and West of Deschutes River to Hwy 197 is now at Level 1. 
+  * 3:?? pm Level 3 evacuation for part of Juniper Flat and Level 1 for Tygh Valley and Oak Springs.
+  * [Smoke Map](https://fire.airnow.gov/?lat=45.175740000000076&lng=-121.07972999999998&zoom=10)
+
+
 ### 2021 Incidents
 * [June 30, 2021: Rattlesnake Fire (Hwy-97/Deschutes River/S.Wasco County)](https://inciweb.nwcg.gov/incident/7592/)
 * [June 29, 2021: Wrentham Market Road (Bewtween Dufur and Deschutes River)](https://inciweb.nwcg.gov/incident/7589/)
