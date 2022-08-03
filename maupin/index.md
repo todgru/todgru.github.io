@@ -16,8 +16,8 @@ layout: nobackground
 ## Fire
 
 ### 2022 Incidents
-* [August 02, 2022 Dodge Fire/Juniper Flat](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:today;l:noaa20-viirs,viirs,modis_a,modis_t,street;@-121.1,45.2,12z) Between Pine Grove and Walters Corner, north of and around Highway 216.
-  * 4:32 pm No InciWeb report.
+* [August 02, 2022 Dodge Fire/Juniper Flat(FIRMS link)](https://firms.modaps.eosdis.nasa.gov/usfs/map/#t:adv;d:2022-08-01..2022-08-02;l:noaa20-viirs,viirs,modis_a,modis_t,street;@-121.2,45.1,13z) Between Pine Grove and Walters Corner, north of and around Highway 216.
+  * 4:32 pm [InciWeb](https://inciweb.nwcg.gov/) not yet reporting.
   * 3:47 pm Level 1 Get Ready: City of Maupin, North and West of Deschutes River to Hwy 197 is now at Level 1. 
   * 3:?? pm Level 3 evacuation for part of Juniper Flat and Level 1 for Tygh Valley and Oak Springs.
   * [Smoke Map](https://fire.airnow.gov/?lat=45.175740000000076&lng=-121.07972999999998&zoom=10)
@@ -25,7 +25,7 @@ layout: nobackground
 
 ### 2021 Incidents
 * [June 30, 2021: Rattlesnake Fire (Hwy-97/Deschutes River/S.Wasco County)](https://inciweb.nwcg.gov/incident/7592/)
-* [June 29, 2021: Wrentham Market Road (Bewtween Dufur and Deschutes River)](https://inciweb.nwcg.gov/incident/7589/)
+* [June 29, 2021: Wrentham Market Road (Between Dufur and Deschutes River)](https://inciweb.nwcg.gov/incident/7589/)
 * [June 18, 2021: S-503 (Northern Warms Springs/Pine Grove)](https://inciweb.nwcg.gov/incident/7559/)
 
 ### Maps
