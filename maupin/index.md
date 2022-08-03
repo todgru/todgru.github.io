@@ -9,7 +9,7 @@ layout: nobackground
 
 ## Weather
 
-* [Current Weather & AQI (full screen)](https://todgru.com/maupin/weather.html)
+* [Current Weather & AQI (full screen)](https://todgru.com/maupin/weather.html) 
 * [Current Weather & AQI (verbose)](https://www.weatherlink.com/embeddablePage/show/1f37f4974bb0462f8032c613f23099b0/summary)
 * [Weather display options](./weather-options.md)
 
@@ -17,7 +17,8 @@ layout: nobackground
 
 ### 2022 Incidents
 * [August 02, 2022 Dodge Fire/Juniper Flat(FIRMS link)](https://firms.modaps.eosdis.nasa.gov/usfs/map/#t:adv;d:2022-08-01..2022-08-02;l:noaa20-viirs,viirs,modis_a,modis_t,street;@-121.2,45.1,13z) Between Pine Grove and Walters Corner, north of and around Highway 216.
-  * 6:49 pm [DC-10 Tanker helping with fire supression](images/walters-corner-filre-dc-10-tanker.png).
+  * 8:00 pm [MD-87 Tanker](images/walters-corner-fire-md-87-tanker.png) air support- [N295EA](https://www.planespotters.net/photo/1014596/n295ea-erickson-aero-tanker-mcdonnell-douglas-md-87-dc-9-87)
+  * 6:49 pm [DC-10 Tanker](images/walters-corner-filre-dc-10-tanker.png) air support - [N603AX](https://www.planespotters.net/airframe/mcdonnell-douglas-dc-10-30-n603ax-10-tanker-air-carrier/rm9gvg)
   * 5:20 pm Level 2 Get Set: City of Maupin, North and West of Deschutes River to Hwy 197 is now at Level 2.
   * 4:32 pm [InciWeb](https://inciweb.nwcg.gov/) not yet reporting.
   * 3:47 pm Level 1 Get Ready: City of Maupin, North and West of Deschutes River to Hwy 197 is now at Level 1. 
