@@ -15,10 +15,13 @@ layout: nobackground
 
 ## Fire
 
+[Regional radio frequencies.](./fire-frequencies.md)
 ### 2022 Incidents
+* August 04, 2022 Fire looks mostly contained. 10,500 acres.
+  * [Fire location map](images/juniper-flat-dodge-fire-20220804.png)
 * [August 02, 2022 Dodge Fire/Juniper Flat(FIRMS link)](https://firms.modaps.eosdis.nasa.gov/usfs/map/#t:adv;d:2022-08-01..2022-08-02;l:noaa20-viirs,viirs,modis_a,modis_t,street;@-121.2,45.1,13z) Between Pine Grove and Walters Corner, north of and around Highway 216.
   * 8:00 pm [MD-87 Tanker](images/walters-corner-fire-md-87-tanker.png) air support- [N295EA](https://www.planespotters.net/photo/1014596/n295ea-erickson-aero-tanker-mcdonnell-douglas-md-87-dc-9-87)
-  * 6:49 pm [DC-10 Tanker](images/walters-corner-filre-dc-10-tanker.png) air support - [N603AX](https://www.planespotters.net/airframe/mcdonnell-douglas-dc-10-30-n603ax-10-tanker-air-carrier/rm9gvg)
+  * 6:49 pm [DC-10 Tanker](images/walters-corner-fire-dc-10-tanker.png) air support - [N603AX](https://www.planespotters.net/airframe/mcdonnell-douglas-dc-10-30-n603ax-10-tanker-air-carrier/rm9gvg)
   * 5:20 pm Level 2 Get Set: City of Maupin, North and West of Deschutes River to Hwy 197 is now at Level 2.
   * 4:32 pm [InciWeb](https://inciweb.nwcg.gov/) not yet reporting.
   * 3:47 pm Level 1 Get Ready: City of Maupin, North and West of Deschutes River to Hwy 197 is now at Level 1. 
