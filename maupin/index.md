@@ -17,6 +17,8 @@ layout: nobackground
 
 [Regional radio frequencies.](./fire-frequencies.md)
 ### 2022 Incidents
+* August 05, 2022 Evacuation level lowered to Level 1
+  * Unfortunately, the only resource for fire information is [Facebook](https://www.facebook.com/OfficialMillerRoadFire/).
 * August 04, 2022 Fire looks mostly contained. 10,500 acres.
   * [Fire location map](images/juniper-flat-dodge-fire-20220804.png)
 * [August 02, 2022 Dodge Fire/Juniper Flat(FIRMS link)](https://firms.modaps.eosdis.nasa.gov/usfs/map/#t:adv;d:2022-08-01..2022-08-02;l:noaa20-viirs,viirs,modis_a,modis_t,street;@-121.2,45.1,13z) Between Pine Grove and Walters Corner, north of and around Highway 216.
