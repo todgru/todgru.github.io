@@ -12,4 +12,4 @@ layout: nobackground
 * _8/5/2022, 6:28:19 AM::135::_ dups fixed.
 * _8/5/2022, 6:32:24 AM::137::_ Removing background for better readability.
 * _8/5/2022, 1:40:43 PM::139::_ how to secure a FWC? Camper/Truck laptop security safe?
-* _8/5/2022, 1:43:38 PM::142::_ do we have dups again?
+* _8/5/2022, 1:48:07 PM::144::_ can remove windows and replace them with either thick "unbreakable" plexiglass or plywood/aluminum. need mechanism on the camper door to prevent pry bar opening (same with truck tray access panels).
