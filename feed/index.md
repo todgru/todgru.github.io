@@ -1,3 +1,6 @@
+---
+layout: nobackground
+---
 # Feed
 
 ### Messages
@@ -7,3 +10,4 @@
 * _8/5/2022, 6:25:59 AM::130::_ The bot still works! :sunglasses:
 * _8/5/2022, 6:27:51 AM::133::_ testing dups.
 * _8/5/2022, 6:28:19 AM::135::_ dups fixed.
+* _8/5/2022, 6:32:24 AM::137::_ Removing background for better readability.
