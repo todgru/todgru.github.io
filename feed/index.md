@@ -13,3 +13,4 @@ layout: nobackground
 * _8/5/2022, 6:32:24 AM::137::_ Removing background for better readability.
 * _8/5/2022, 1:40:43 PM::139::_ how to secure a FWC? Camper/Truck laptop security safe?
 * _8/5/2022, 1:48:07 PM::144::_ can remove windows and replace them with either thick "unbreakable" plexiglass or plywood/aluminum. need mechanism on the camper door to prevent pry bar opening (same with truck tray access panels).
+* _8/8/2022, 8:41:00 AM::161::_ battery size chart, automotive, light duty commercial, heavy-duty commercial , electric vehicles https://www.jegs.com/Sizecharts/bcigroup.html
