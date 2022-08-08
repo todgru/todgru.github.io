@@ -1,4 +1,6 @@
-
+---
+layout: nobackground
+---
 # BCI GROUP NUMBERS, AND DIMENSIONAL SPECIFICATIONS
 
 Maximum Overall Dimensions [footnote](#note).
