@@ -15,3 +15,4 @@ layout: nobackground
 * _8/5/2022, 1:48:07 PM::144::_ can remove windows and replace them with either thick "unbreakable" plexiglass or plywood/aluminum. need mechanism on the camper door to prevent pry bar opening (same with truck tray access panels).
 * _8/8/2022, 8:41:00 AM::161::_ battery size chart, automotive, light duty commercial, heavy-duty commercial , electric vehicles https://www.jegs.com/Sizecharts/bcigroup.html
 * _8/8/2022, 4:41:41 PM::164::_ idea: new bot to download shows from Mixcloud.
+* _8/8/2022, 4:41:44 PM::164::_ idea: new bot to download shows from Mixcloud.
