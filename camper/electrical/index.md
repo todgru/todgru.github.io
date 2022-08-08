@@ -5,11 +5,16 @@ layout: nobackground
 # Electrical
 
 
-## Batteries
+# Batteries
 
+## Battery Groups
+
+[Battery "group" sizes](./battery-dimensions.html).
+
+## SOC
 The [AmpereTime](https://amperetime.com) 100 Ah and 200 Ah LiFePo batteries have the same estimated State of Charge values (SOC). The camper is currently using the 200 Ah battery. The AmpereTime battery was recommened by Will Prowse in one of his tear-down videos and on his website, [Mobile Solar Power](https://www.mobile-solarpower.com/lithium-batteries.html).
 
-| Capcity  | Charge Voltage|
+| Capacity  | Charge Voltage|
 | -------- |:-------------
 | 100%    | 13.5V |
 | 99%     | 13.4V |
