@@ -17,6 +17,7 @@ layout: nobackground
 
 [Regional radio frequencies.](./fire-frequencies.md)
 ### 2022 Incidents
+* August 06, 2022 Evacuation level lifted.
 * August 05, 2022 Evacuation level lowered to Level 1
   * Unfortunately, the only resource for fire information is [Facebook](https://www.facebook.com/OfficialMillerRoadFire/).
 * August 04, 2022 Fire looks mostly contained. 10,500 acres.
