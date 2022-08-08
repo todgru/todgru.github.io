@@ -4,7 +4,7 @@ tag_text: todgru
 description: todgru!
 
 # Build settings
-markdown: kramdown
+markdown: gfm
 exclude: ["README.md"]
 sass:
   style: compressed
