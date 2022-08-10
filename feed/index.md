@@ -20,3 +20,4 @@ layout: nobackground
 * _8/9/2022, 9:02:48 PM::178::_ metal models: this looks promising/interesting https://mmpractices.com/
 * _8/9/2022, 10:15:20 PM::180::_ research reciprocal licensing Mexico/US
 * _8/9/2022, 10:29:02 PM::182::_ travel clothes washing bag
+* _8/10/2022, 3:07:44 PM::184::_ customizing gfm image width https://gist.github.com/todgru/664584d684d4a4a5edd96a0eafb11998
