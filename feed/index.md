@@ -17,3 +17,5 @@ layout: nobackground
 * _8/8/2022, 4:41:41 PM::164::_ idea: new bot to download shows from Mixcloud.
 * _8/8/2022, 4:41:44 PM::164::_ idea: new bot to download shows from Mixcloud.
 * _8/9/2022, 9:02:20 AM::173::_ collection of Toyota Tacoma after market parts https://lowrangeoffroad.com/toyota/tacoma-2005-2015.html?product_list_limit=60
+* _8/9/2022, 8:48:50 PM::175::_  > DishyPowa should be always installed with a 60V 4A quick blow fuse (not supplied) in line with the +VE power input terminal to provide short circuit protection.
+* _8/9/2022, 8:48:50 PM::175::_  > DishyPowa should be always installed with a 60V 4A quick blow fuse (not supplied) in line with the +VE power input terminal to provide short circuit protection.
