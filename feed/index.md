@@ -21,3 +21,4 @@ layout: nobackground
 * _8/9/2022, 10:15:20 PM::180::_ research reciprocal licensing Mexico/US
 * _8/9/2022, 10:29:02 PM::182::_ travel clothes washing bag
 * _8/10/2022, 3:07:44 PM::184::_ customizing gfm image width https://gist.github.com/todgru/664584d684d4a4a5edd96a0eafb11998
+* _8/10/2022, 8:23:39 PM::186::_ checkout rivet nuts and tool. Need stainless. 
