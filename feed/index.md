@@ -25,4 +25,5 @@ layout: nobackground
 * _8/11/2022, 9:12:49 AM::188::_ Tacoma Access cab roof rack https://www.uptopoverland.com/products/alpha-tacoma-access-cab-roof-rack-2005-2022
 * _8/11/2022, 12:46:33 PM::190::_ standup comedy workshop takeaways by software engineer https://michaelgv.uk/posts/2022/08/seven-things-i-learnt-doing-stand-up-comedy/
 * _8/11/2022, 4:09:05 PM::199::_ ![200ah!](./images/200ah-ampere-time-battery.jpg "200ah!")
-* _8/11/2022, 4:09:05 PM::199::_ ![200ah!](./images/200ah-ampere-time-battery.jpg "200ah!")
+* _8/11/2022, 4:18:24 PM::206::_ ![100ah!](./images/100ah-ampere-time-battery.jpg "100ah!")
+* _8/11/2022, 4:18:24 PM::206::_ ![100ah!](./images/100ah-ampere-time-battery.jpg "100ah!")
