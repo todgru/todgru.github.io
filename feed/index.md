@@ -26,34 +26,3 @@ layout: nobackground
 * _8/11/2022, 12:46:33 PM::190::_ standup comedy workshop takeaways by software engineer https://michaelgv.uk/posts/2022/08/seven-things-i-learnt-doing-stand-up-comedy/
 * _8/11/2022, 4:09:05 PM::199::_ ![200ah!](./images/200ah-ampere-time-battery.jpg "200ah!")
 * _8/11/2022, 4:18:24 PM::206::_ ![100ah!](./images/100ah-ampere-time-battery.jpg "100ah!")
-* _8/11/2022, 4:18:24 PM::206::_ ![100ah!](./images/100ah-ampere-time-battery.jpg "100ah!")
-* _8/11/2022, 4:18:27 PM::207::_ undefined
-* _8/11/2022, 4:18:27 PM::207::_ undefined
-* _8/11/2022, 4:18:30 PM::208::_ undefined
-* _8/11/2022, 4:18:30 PM::208::_ undefined
-* _8/11/2022, 4:18:30 PM::209::_ undefined
-* _8/11/2022, 4:18:30 PM::209::_ undefined
-* _8/11/2022, 4:18:34 PM::210::_ undefined
-* _8/11/2022, 4:18:34 PM::210::_ undefined
-* _8/11/2022, 4:18:34 PM::211::_ undefined
-* _8/11/2022, 4:18:34 PM::211::_ undefined
-* _8/11/2022, 4:18:34 PM::213::_ undefined
-* _8/11/2022, 4:18:34 PM::212::_ undefined
-* _8/11/2022, 4:18:34 PM::213::_ undefined
-* _8/11/2022, 4:18:34 PM::212::_ undefined
-* _8/11/2022, 4:18:43 PM::214::_ undefined
-* _8/11/2022, 4:18:43 PM::214::_ undefined
-* _8/11/2022, 4:18:43 PM::215::_ undefined
-* _8/11/2022, 4:18:43 PM::216::_ undefined
-* _8/11/2022, 4:18:43 PM::216::_ undefined
-* _8/11/2022, 4:18:43 PM::217::_ undefined
-* _8/11/2022, 4:18:43 PM::215::_ undefined
-* _8/11/2022, 4:18:43 PM::217::_ undefined
-* _8/11/2022, 4:18:43 PM::218::_ undefined
-* _8/11/2022, 4:18:43 PM::218::_ undefined
-* _8/11/2022, 4:18:43 PM::219::_ undefined
-* _8/11/2022, 4:18:43 PM::219::_ undefined
-* _8/11/2022, 4:18:43 PM::220::_ undefined
-* _8/11/2022, 4:18:43 PM::221::_ undefined
-* _8/11/2022, 4:18:43 PM::220::_ undefined
-* _8/11/2022, 4:18:43 PM::221::_ undefined
