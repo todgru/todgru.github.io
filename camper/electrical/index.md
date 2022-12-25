@@ -4,6 +4,11 @@ layout: nobackground
 
 # Electrical
 
+2023 plan: add second 200ah battery, additional 350 watt pv, and upgrade charge controller.
+
+### Electical layout with new components
+<a href="./fwc-electrical-plans-2023.jpg"><img width="500" alt="Electrical Diagram" src="./fwc-electrical-plans-2023.jpg"></a>
+
 
 # Batteries
 
@@ -28,5 +33,5 @@ The [AmpereTime](https://amperetime.com) 100 Ah and 200 Ah LiFePo batteries have
 | 0%      | 9.5V |
 
 
-* ![100ah Soc](./100ah-ampere-time-battery-soc.jpg)
-* ![200ah Soc](./200ah-ampere-time-battery-soc.jpg)
+* <img width="500" alt="100ah SOC" src="./100ah-ampere-time-battery-soc.jpg"></a>
+* <img width="500" alt="200ah SOC" src="./200ah-ampere-time-battery-soc.jpg"></a>
