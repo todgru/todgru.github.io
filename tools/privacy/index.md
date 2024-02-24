@@ -1,5 +1,5 @@
 ---
-layout: nobackground
+layout: default
 ---
 
 # Privacy Tools and Information
@@ -15,6 +15,6 @@ layout: nobackground
 
 ## Education
 
-- [Extreme Privacy Book - Michael Bazzell](https://inteltechniques.com/book7.html) Highly recommend. Many available strategies from mobile phones to anonymouse homes.
-- [The New Oil](https://thenewoil.xyz/) online privacy information. This is a dense read packed with useful information. Recommended. [blog](https://write.as/thenewoil/)
+- [Extreme Privacy Book - Michael Bazzell](https://inteltechniques.com/book7.html) Many available strategies from mobile phones to anonymous homes.
+- [The New Oil](https://thenewoil.org/), [Blog](https://write.as/thenewoil/) online privacy information. This is a dense read packed with useful information.
 - [How to Opt Out of the Sites That Sell Your Personal Data](https://www.wired.com/story/opt-out-data-broker-sites-privacy) A good overview, but not as in-depth as other resources listed here.
