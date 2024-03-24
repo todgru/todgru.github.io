@@ -14,6 +14,9 @@ a {
   font-size: 16px;
 }
 
+h2,h3,h4,h5,h6 {break-after: avoid-page;}
+img, svg, table, canvas {break-inside: avoid;}
+
 h1,h2,h3 {
   font-size: 25px;
 }
