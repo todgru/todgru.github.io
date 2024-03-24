@@ -152,4 +152,4 @@ engineer.
 
 Photo of the leaks status.
 
-![](images/image20.png)
+![](images/image20.jpg)
