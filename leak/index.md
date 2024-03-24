@@ -1,5 +1,5 @@
 ---
-layout: nobackground
+layout: pics
 ---
 
 # 2014 Toyota Tacoma Transmission Transfer Case Leak
