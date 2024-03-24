@@ -52,7 +52,7 @@ rotate tires. No leaks were mentioned. Morgan Automotive, Portland, OR
 
 ## Mileage 86160 December 8, 2023
 
-These are photos I took before the scheduled leak repair and clutch replacement at United Toyota, Imperial, CA.
+I took these photos before the scheduled leak repair and clutch replacement at United Toyota, Imperial, CA.
 
 ![](images/image5.jpg)
 
