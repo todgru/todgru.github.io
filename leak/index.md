@@ -6,8 +6,9 @@ layout: pics
 
 **VIN: 5TFUU4EN9EX096520**
 
-I did not find any photos of the transfer case leak prior to June 30,
-2022.
+I found no photos of the transfer case leak before June 30, 2022.
+
+An updated digital version of this document with larger photos is available at https://todgru.com/leak
 
 ## June 30, 2022 - Mileage 67949
 
@@ -146,3 +147,9 @@ repair the leak.
 
 I plan to call on March 25th to schedule an appointed with the field
 engineer.
+
+## March 22, 2024 Mileage 89643
+
+Photo of the leaks status.
+
+![](images/image20.png)
