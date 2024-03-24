@@ -1,11 +1,15 @@
-2014 Toyota Tacoma Transmission Transfer Case Leak
+---
+layout: nobackground
+---
 
-VIN: 5TFUU4EN9EX096520
+# 2014 Toyota Tacoma Transmission Transfer Case Leak
+
+**VIN: 5TFUU4EN9EX096520**
 
 I did not find any photos of the transfer case leak prior to June 30,
 2022.
 
-# June 30, 2022 - Mileage 67949
+## June 30, 2022 - Mileage 67949
 
 Replaced transfer case union seals, marked with red paint by the
 technician as a reminder to recheck at the next service appointment.
@@ -15,7 +19,7 @@ Columbia George Toyota The Dalles, OR
 -   90311-43007 Seal, Type T Oil
 -   96721-35063 O-Ring
 
-# September 2, 2022 Mileage 71000 (approx)
+## September 2, 2022 Mileage 71000 (approx)
 
 I emailed Columbia Gorge Toyota these photos to ask about the red paint
 left for inspection reminder. The red paint could make it look wet. I\'m
@@ -23,29 +27,29 @@ not sure if it is leaking again at this point.
 
 ![](images/image13.jpg)![](images/image7.jpg)
 
-# October 3, 2022 Mileage 714690
+## October 3, 2022 Mileage 714690
 
 Engine Service and 120-point inspection at Morgan Automotive, Portland,
 OR. No mention of the leak.
 
-# January 13, 2023 Mileage 76666
+## January 13, 2023 Mileage 76666
 
 Engine service, rotate tires. No leaks were mentioned. Columbia George
 Toyota, The Dalles, OR
 
-# July 20, 2023 Mileage 81172
+## July 20, 2023 Mileage 81172
 
 Engine service. No leaks were mentioned. Columbia George Toyota, The
 Dalles, OR
 
-# October 10, 2023 Mileage 83622
+## October 10, 2023 Mileage 83622
 
 Engine service, vehicle trip 120-point inspection, new spark plugs, fuel
 injection service, new rear diff fluid, new front diff fluid, new manual
 transmission fluid, new transfer case fluid, clean adjust rear brakes,
 rotate tires. No leaks were mentioned. Morgan Automotive, Portland, OR
 
-# December 8, 2023 Mileage 86160
+## December 8, 2023 Mileage 86160
 
 ![](images/image5.jpg)
 
@@ -53,9 +57,9 @@ rotate tires. No leaks were mentioned. Morgan Automotive, Portland, OR
 
 ![](images/image9.jpg)
 
-#
+##
 
-# December 12, 2023 Mileage 86226
+## December 12, 2023 Mileage 86226
 
 Replacement clutch, flywheel, bearing, and transfer case seals. United
 Toyota, Imperial, CA
@@ -77,7 +81,7 @@ Photos from customer service representative:
 
 ![](images/image4.png)
 
-# Mileage 87457 January 20, 2024
+## Mileage 87457 January 20, 2024
 
 Leak photos.
 
@@ -87,7 +91,7 @@ Leak photos.
 
 ![](images/image19.jpg)
 
-# Mileage: 88094 February 10, 2024
+## Mileage: 88094 February 10, 2024
 
 Replace the aluminum transmission output cover plate and o-ring.
 
@@ -125,7 +129,7 @@ Another closeup from a different perspective.
 
 ![](images/image18.png)
 
-# March 2, 2024 Mileage 89377
+## March 2, 2024 Mileage 89377
 
 Engine service, rotate tires, and advise on leaking
 transmission/transfer case.
@@ -133,7 +137,7 @@ transmission/transfer case.
 Advise to bring truck back on March 13th for further inspection and
 consulting with Toyota engineers. Columbia Gorge Toyota, The Dalles, OR
 
-# March 13, 2024 Mileage 89520 (approx)
+## March 13, 2024 Mileage 89520 (approx)
 
 After inspection and discussion with Toyota, the service representative
 asked to bring the truck back at the beginning of April, when the Toyota
