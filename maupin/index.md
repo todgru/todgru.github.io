@@ -18,8 +18,7 @@ layout: nobackground
 * [Regional radio frequencies.](./fire-frequencies.md)
 * [Watch Duty](https://app.watchduty.org) public reporting information
 * [Central Oregon Fire Info](https://centraloregonfire.org)
-
-### Maps
+* [RAPTOR Public](https://experience.arcgis.com/experience/de78333b0d2544f7a320142174aa20ae?org=geo&org=geo) Real-Time Assessment and Planning Tool for Oregon
 * [Fire and Smoke Map](https://fire.airnow.gov/?lat=45.175740000000076&lng=-121.07972999999998&zoom=10)
 * [Fire Incidents US](https://inciweb.nwcg.gov/)
 * [National Fire Situational Awareness (NFSA) Tool](https://maps.nwcg.gov/sa/#/%3F/%3F/44.7429/-122.3369/8)
