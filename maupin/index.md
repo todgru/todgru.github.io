@@ -9,20 +9,21 @@ layout: nobackground
 
 ## Weather
 
-* [Current Weather & AQI (full screen)](https://todgru.com/maupin/weather.html) 
+* [Current Weather & AQI (full screen)](https://todgru.com/maupin/weather.html)
 * [Current Weather & AQI (verbose)](https://www.weatherlink.com/embeddablePage/show/1f37f4974bb0462f8032c613f23099b0/summary)
 * [Weather display options](./weather-options.md)
 
 ## Fire
 
-[Regional radio frequencies.](./fire-frequencies.md)
+* [Regional radio frequencies.](./fire-frequencies.md)
+* [Watch Duty](https://app.watchduty.org) public reporting information
 
 ### Maps
 * [Fire and Smoke Map](https://fire.airnow.gov/?lat=45.175740000000076&lng=-121.07972999999998&zoom=10)
 * [Fire Incidents US](https://inciweb.nwcg.gov/)
 * [National Fire Situational Awareness (NFSA) Tool](https://maps.nwcg.gov/sa/#/%3F/%3F/44.7429/-122.3369/8)
 * [FIRMS US/Canada - Central Oregon](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:2021-06-20..2021-06-21;l:noaa20-viirs,viirs,modis_a,modis_t,active-usa,active-ca,street;@-119.5,44.6,7z)
-* 
+*
 ### 2022 Incidents
 * August 06, 2022 Evacuation level lifted.
 * August 05, 2022 Evacuation level lowered to Level 1
@@ -34,7 +35,7 @@ layout: nobackground
   * 6:49 pm [DC-10 Tanker](images/walters-corner-fire-dc-10-tanker.png) air support - [N603AX](https://www.planespotters.net/airframe/mcdonnell-douglas-dc-10-30-n603ax-10-tanker-air-carrier/rm9gvg)
   * 5:20 pm Level 2 Get Set: City of Maupin, North and West of Deschutes River to Hwy 197 is now at Level 2.
   * 4:32 pm [InciWeb](https://inciweb.nwcg.gov/) not yet reporting.
-  * 3:47 pm Level 1 Get Ready: City of Maupin, North and West of Deschutes River to Hwy 197 is now at Level 1. 
+  * 3:47 pm Level 1 Get Ready: City of Maupin, North and West of Deschutes River to Hwy 197 is now at Level 1.
   * 3:?? pm Level 3 evacuation for part of Juniper Flat and Level 1 for Tygh Valley and Oak Springs.
   * [Smoke Map](https://fire.airnow.gov/?lat=45.175740000000076&lng=-121.07972999999998&zoom=10)
 
