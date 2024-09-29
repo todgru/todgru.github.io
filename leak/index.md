@@ -154,4 +154,22 @@ Photo of the leaks status.
 
 ![](images/image20.jpg)
 
+## Mileage 89728 April 11, 2024
+
+The issue was the seal was installed backwards. Toyota replaced the seal, o-ring, gasket, transmission cover subassembly.
+
+![](images/image21.jpeg)
+
+![](images/image22.jpeg)
+
+![](images/image23.jpeg)
+
+![](images/image24.jpeg)
+
+![](images/image25.jpeg)
+
+## Mileage 94xxx September 29, 2024
+
+NO LEAKS!
+
 ## END OF DOCUMENT
